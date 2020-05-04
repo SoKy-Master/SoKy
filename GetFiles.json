@@ -1,0 +1,16 @@
+{
+    "result": true,
+    "IinFormation": {
+        "Text_Msg": "🗂¦ مرحبا بكم في متجر الملفات »  \nـ------------------------------------\n🤖| جميع الملفات متاحه الان .\n\n",
+        "BorderBy": "\n[*] علامه الـ✓ تعني الملف مفعل\n[*] وعلامه الـ✖️ تعني الملف غير مفعل  \n\nMade By { SoKy 📡 }."
+    },
+    "Developers": {
+        "Dev_1": "@QQ_33",
+        "Dev_2": "Not Found",
+        "Dev_3": "Not Found"
+    },
+    "Plugins": {
+        "zhrfa.lua": "https://telegra.ph/Zhrfa-Veer-12-20",
+        "games.lua":"https://telegra.ph/File-Games-12-20"
+    }
+}
