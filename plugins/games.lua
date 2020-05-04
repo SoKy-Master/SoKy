@@ -1,6 +1,3 @@
---[[
-العاب سورس فير الجديد 
---]]
 local function iVeer(msg,MsgText)
 if msg.type ~= "pv" and msg.GroupActive then
 
